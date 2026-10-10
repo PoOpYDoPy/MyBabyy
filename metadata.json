@@ -1,0 +1,8 @@
+{
+  "name": "Kanishka - A World Made Just For You",
+  "description": "An intimate, interactive birthday keepsake and digital universe built with love for Kanishka (Kittu).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
